@@ -1,4 +1,4 @@
-<h1 align="left">Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Eu sou o Matheus Giroto</h1>
+<h1 align="left" style="color": #ff0000;>Olá, Eu sou o Matheus Giroto</h1>
 <h2 align="left"> Seja muito bem-vindo(a)</h2>
 <h3 align="center">
   <a href=""><img width="30px" src="./icons/brazil-flag.gif"></a>
