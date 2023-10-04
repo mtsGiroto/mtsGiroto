@@ -1,6 +1,6 @@
 <h1 align="left">Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Eu sou o Matheus Giroto</h1>
 <h2 align="left"> Seja muito bem-vindo(a)</h2>
-<h3 align="right">
+<h3 align="center">
   <a href=""><img width="30px" src="./icons/brazil-flag.gif"></a>
 </h3>
 <h3>Um pouco sobre mim:</h3>
@@ -12,7 +12,7 @@
 🚀 Atualmente, além da faculdade, estou fazendo cursos na plataforma alura, udemy e youtube.
 ```
 <h3 align="right">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Back%20End;I%20Love%20to%20API'S&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=500&size=32">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Back-End;I%20Love%20to%20API'S&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=500&size=32">
 </h3>
 
 <div align="center">
